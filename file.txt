@@ -1,3 +1,1 @@
-Alex has a cat.
-
-Editing functionality A.
+Alex has a dog.
